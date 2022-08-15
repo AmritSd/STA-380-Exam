@@ -35,7 +35,7 @@ P(Positive\|Disease) = .993 P(Negative\|No Disease) = 0.9999
 
 The probabilities above are summarized in the tree diagram below:
 
-![](tree.png)
+![](Tree.png)
 
 We’re looking for P(Disease\|Positive) so we can use Baye’s Law:
 

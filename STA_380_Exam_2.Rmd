@@ -58,7 +58,7 @@ print("")
 ```
 
 
-![ ](tree.png)
+![ ](Tree.png)
 
 ```{r,include=FALSE}
 print("")
