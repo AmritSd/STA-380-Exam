@@ -3,6 +3,7 @@ STA 380 Part 2: Exercises
 Aidan Cremins, Peyton Lewis, Joe Morris, Amrit Sandhu
 2022-08-15
 
+[Link to our Raw Markdown Code](https://github.com/AmritSd/STA-380-Exam/blob/3ee5c535ddd1f4bd5a0721965af61e558034c68d/STA_380_Exam_2.Rmd)
 # Probability Practice
 
 ### Part a.
